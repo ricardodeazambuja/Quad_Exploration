@@ -1,3 +1,8 @@
+The modifications allow the visualisation the points that are interacting with the quadcopter at the moment (in red) and the full cloud (orange). It also shows the force (red arrow):
+
+
+![animation_1_3](https://user-images.githubusercontent.com/6606382/153913265-6aa5f41f-1db1-447d-8bff-1076c5c9cb16.gif)
+
 # Quadcopter Exploration
 
 This project is based on the dynamic model and controller designed in [this project](https://github.com/bobzwik/Quadcopter_SimCon), which uses PyDy to derive the equations of motion.
